@@ -5,7 +5,7 @@ EMULATOR_TITLE = "LDPlayer"
 SCREEN_SCALING = 1.25
 
 IMAGES = {
-    "START": os.path.abspath(os.path.dirname(__file__)) + "/img/big_start_classic.png", 
+    "START": os.path.abspath(os.path.dirname(__file__)) + "/img/start6.png", 
     "OP_SELECT": os.path.abspath(os.path.dirname(__file__)) + "/img/big_op_sel.png",
     "OP_SELECT2": os.path.abspath(os.path.dirname(__file__)) + "/img/selbig.png",
     "WIN3": os.path.abspath(os.path.dirname(__file__)) + "/img/big_win_3.png",
